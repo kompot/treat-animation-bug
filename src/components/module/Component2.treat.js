@@ -4,9 +4,11 @@ export const container = style({
   "@keyframes": {
     from: {
       strokeDashoffset: 125,
+      opacity: 1,
     },
     to: {
       strokeDashoffset: 20,
+      opacity: 1,
     },
   },
 
